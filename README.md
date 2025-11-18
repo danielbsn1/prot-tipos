@@ -51,16 +51,6 @@ O sistema foi projetado para uso em Windows, mas pode ser adaptado para outros s
 Dúvidas ou Melhorias
 Caso queira adicionar novas funcionalidades, melhorar a interface ou integrar com outros sistemas, entre em contato com o desenvolvedor ou consulte a documentação do Tkinter e SQLite.
 
-Desenvolvido por:
-GitHub Copilot
-19 de agosto de 20253. Interface
-
-A janela ocupará toda a tela.
-Preencha os campos ou utilize o QR Code para buscar/cadastrar ferramentas.
-Utilize os botões para salvar, consultar ou buscar ferramentas.
-Estrutura dos Dados
-Cada ferramenta possui os seguintes campos:
-
 Nome
 Código (único, pode ser lido via QR Code)
 Categoria
@@ -78,5 +68,6 @@ Caso queira adicionar novas funcionalidades, melhorar a interface ou integrar co
 Desenvolvido por:
 Daniel Batista
 19 de agosto de 2025
+
 
 
